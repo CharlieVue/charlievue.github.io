@@ -10,7 +10,6 @@
 
 <center><h1>Charlie Vue's Home Page</h1></center>
 
-<center><img src = "ai.jpg" style = "width:300px;height:300px;"></center>
 
 <h2>Self Introduction:</h2>
 
